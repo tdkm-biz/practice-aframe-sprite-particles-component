@@ -13,8 +13,8 @@ For a demo goto https://harlyq.github.io/aframe-sprite-particles-component/
 ## Examples
 ```html
 <head>
-  <script src="https://aframe.io/releases/0.9.0/aframe.min.js"></script>
-  <script src="https://unpkg.com/aframe-sprite-particles-component@^0.5.0/aframe-sprite-particles-component.js"></script>
+  <script src="https://aframe.io/releases/1.3.0/aframe.js"></script>
+  <script src="aframe-sprite-particles-component.js"></script>
 </head>
 <body>
   <a-scene>
